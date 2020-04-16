@@ -5,6 +5,7 @@ A small Python script to google translate files or strings
 
 * Usage: `python3 translate.py <Source Language> <Destination Language> <String>`
 * Usage example: `python3 translate.py English Swedish "I love playing footbal"`
+`$ Jag älskar att spela fotboll`
 
 ## Features to add:
 * read from file
